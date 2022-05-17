@@ -1,0 +1,6 @@
+name: CopperToIron
+version: '${project.version}'
+main: moe.myuuiii.coppertoiron.CopperToIron
+api-version: 1.18
+authors: [ Myuuiii ]
+description: Allows you to dye copper white to get iron
