@@ -6,7 +6,7 @@ Allows you to combine 2 copper ingots and light gray dye to create one iron ingo
 
 ## Crafting recipe
 
-![Recipe](https://cdn.mutedevs.nl/projects/coppertoiron/recipe.png)
+![Recipe](https://cdn.myuuiii.com/projects/coppertoiron/recipe.png)
 
 ## Honorable mentions
 
